@@ -2,6 +2,8 @@
 I'll try to keep these updated, but feel free to bother me if I fall behind! Mod descriptions are the original descriptions posted with the mods and I make no apologies for their general lack of helpfulness.
 
 ## The Mods
+These are the mods I've already published. They're all in the [Mods](https://github.com/TheInevitableLuke/DRG-Modding/Mods) folder, along with a wildly inconsistent amount of source code. Some have all of the modified game files, all of the test iterations from development, and multiple versions. Some have... significantly less than that. I blame elves.
+
 ### Cave Leech Clusterfuck
 Do you feel like Cave Leech Clusters need more leeches? Do you think leeches are too big, or too slow? Do you have a nuisance Scout you're looking to dispose of? Look no further - Cave Leech Clusterfuck is the mod for you!
 - Makes ~~smaller,~~ faster leeches
@@ -60,3 +62,19 @@ You need 69 gunk seeds to complete the secondary. Don't worry, enough will spawn
 
 ### Reverse Low2
 Take your time exploring the cave, but steer clear of any O2 "sources"
+
+## Unpublished Mods
+These never made it to publication - mostly because they can give you lots of credits and XP, but sometimes because they didn't work right/at all. I'll warn you now, the ones that _can_ grant credits and XP are ~~equally~~ more likely to crash your game. Those ones wil also **not** be published here until Modding Support (and thus Sandbox categorization) are live.
+
+### The Real Crassus
+Re-made Banagement's original _The Real Crassus_ as the template for _The Real Krampus_. It makes a lot of gold.
+
+### The Realest Crassus
+This was a bad idea. No carve radius, turns everything within 50m to gold. This was a bad idea.
+
+### The Realest Krampus
+This is _The Realest Crassus_, but with Morkite.
+
+### sALLt
+Also _The Realest Crassus_, this time with salt. May actually have a larger radius, but I'd have to unpak the file to check.
+
