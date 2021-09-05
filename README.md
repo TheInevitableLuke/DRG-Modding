@@ -78,3 +78,5 @@ This is _The Realest Crassus_, but with Morkite.
 ### sALLt
 Also _The Realest Crassus_, this time with salt. May actually have a larger radius, but I'd have to unpak the file to check.
 
+## Some Random Stuff I Did
+I'm also including a few text files with helpful stuff (an index of all of the game files and a quick description of some useful CMD commands)

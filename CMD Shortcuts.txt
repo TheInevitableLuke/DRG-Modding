@@ -1,0 +1,23 @@
+New empty directory:
+xcopy "C:\DRG Mods\MODDING TOOLS\DRGpacker\unpacked\FSD\Content" "C:\DRG Mods\MODDING TOOLS\DRGpacker\input\Content" /t /e
+
+
+Find all files in input folder:
+cd C:\DRG Mods\MODDING TOOLS\DRGpacker\input
+dir /a-D /S /B
+
+
+Delete all files but leave all folders:
+DEL /F/Q/S *.* > NUL
+
+
+Find all files with "goo" in the name
+dir *goo* /s
+
+
+Find all folders and files with "in" in the name
+dir *in* /s/b
+
+
+Make a file listing all files with "sack" in the name
+dir *sack* /s/b/a:-d > goo_in_the_sack.txt
