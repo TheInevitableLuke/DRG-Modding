@@ -4,11 +4,11 @@ I'll try to keep these updated, but feel free to bother me if I fall behind! Mod
 ## The Mods
 ### Cave Leech Clusterfuck
 Do you feel like Cave Leech Clusters need more leeches? Do you think leeches are too big, or too slow? Do you have a nuisance Scout you're looking to dispose of? Look no further - Cave Leech Clusterfuck is the mod for you!
--Makes ~~smaller,~~ faster leeches
--Makes a lot more leeches (but only in missions with the modifier)
--Renames Cave Leech Cluster to Cave Leech Clusterfuck in mission selection
--Increases hazard bonus
--~~May not behave quite right on all mission types (Refinery has been... odd so far)~~
+- Makes ~~smaller,~~ faster leeches
+- Makes a lot more leeches (but only in missions with the modifier)
+- Renames Cave Leech Cluster to Cave Leech Clusterfuck in mission selection
+- Increases hazard bonus
+- ~~May not behave quite right on all mission types (Refinery has been... odd so far)~~
 
 - v1.1: Squashed bug where leeches would block each other's line of sight. They will no longer overlap, and will **all** try to grab you. Many apologies for the inconvenience.
 - v1.2: Improved cave leech tessellation. Fewer opportunities to see that pesky "ceiling" that used to appear between our glorious overleeches. **Accept the leech. Love the leech.**
