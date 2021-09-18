@@ -1,8 +1,7 @@
 # DRG-Modding
-I'll try to keep these updated, but feel free to bother me if I fall behind! Mod descriptions are the original descriptions posted with the mods and I make no apologies for their general lack of helpfulness.
+I'll try to keep these updated, but feel free to bother me if I fall behind! Mod descriptions are the original descriptions posted with the mods and I make no apologies for their general lack of helpfulness. Published mods can be found on [mod.io](https://mod.io/members/theinevitableluke) or wherever mods are sold. All of the mods I publish will be in the [Mods](https://github.com/TheInevitableLuke/DRG-Modding/Mods) folder, along with a wildly inconsistent amount of source code. Some have all of the modified game files, all of the test iterations from development, and multiple versions. Some have... significantly less than that. I blame elves.
 
-## The Mods
-These are the mods I've already published. They're all in the [Mods](https://github.com/TheInevitableLuke/DRG-Modding/Mods) folder, along with a wildly inconsistent amount of source code. Some have all of the modified game files, all of the test iterations from development, and multiple versions. Some have... significantly less than that. I blame elves.
+## Approved Mods
 
 ### Cave Leech Clusterfuck
 Do you feel like Cave Leech Clusters need more leeches? Do you think leeches are too big, or too slow? Do you have a nuisance Scout you're looking to dispose of? Look no further - Cave Leech Clusterfuck is the mod for you!
@@ -32,9 +31,6 @@ Sometimes, a young Dysonator will seek out mining teams before it can truly wrec
 ### Krampus Detonators
 Crassus detonators give you a lot of gold. Krampus Detonators... aren't as generous
 
-### The Real Krampus
-Krampus Detonators aren't particularly helpful. The Real Krampus makes them actively **un**helpful
-
 ### I Feel Dirty
 Look, I'm too hungover to make anything all _that_ original. So yeah, here's a crassus that some weirdo shoved a bunch of dirt into. [Preview](https://www.youtube.com/watch?v=zs5RV4GW01U)
 
@@ -63,8 +59,8 @@ You need 69 gunk seeds to complete the secondary. Don't worry, enough will spawn
 ### Reverse Low2
 Take your time exploring the cave, but steer clear of any O2 "sources"
 
-## Unpublished Mods
-These never made it to publication - mostly because they can give you lots of credits and XP, but sometimes because they didn't work right/at all. I'll warn you now, the ones that _can_ grant credits and XP are ~~equally~~ more likely to crash your game. Those ones wil also **not** be published here until Modding Support (and thus Sandbox categorization) are live.
+## Sandbox Mods
+Maybe these will break your game with credits and XP, maybe they'll break your game by crashing it. Only one way to find out! (Don't worry, crashing just means you have to reboot - these won't actually _break_ the game, ever)
 
 ### The Real Crassus
 Re-made Banagement's original _The Real Crassus_ as the template for _The Real Krampus_. It makes a lot of gold.
@@ -72,11 +68,14 @@ Re-made Banagement's original _The Real Crassus_ as the template for _The Real K
 ### The Realest Crassus
 This was a bad idea. No carve radius, turns everything within 50m to gold. This was a bad idea.
 
+### The Real Krampus
+Krampus Detonators aren't particularly helpful. The Real Krampus makes them actively **un**helpful
+
 ### The Realest Krampus
 This is _The Realest Crassus_, but with Morkite.
 
 ### sALLt
-Also _The Realest Crassus_, this time with salt. May actually have a larger radius, but I'd have to unpak the file to check.
+Also _The Realest Crassus_, this time with salt. May actually have a larger radius, but I'd have to unpak the file to check. (Not published on mod.io yet, but I can if there's interest)
 
 ## Some Random Stuff I Did
 I'm also including a few text files with helpful stuff (an index of all of the game files and a quick description of some useful CMD commands)
