@@ -63,6 +63,11 @@ Take your time exploring the cave, but steer clear of any O2 "sources"
 Rated E Forever™️
 Have you ever felt like you were just getting into the rhythm of holding E down, when suddenly the game heartlessly rips the E button away from you, along with your sense of meaning and purpose in the world? Same. Hold E Simulator will help! Spend more time holding E and less time on whatever other trivial nonsense keeps trying to distract you.
 
+### Tooth Nexus
+Gives the brood nexus some teeth.
+WARNING: ~~brood~~ tooth nexus **will** share teeth
+
+
 ## Sandbox Mods
 Maybe these will break your game with credits and XP, maybe they'll break your game by crashing it. Only one way to find out! (Don't worry, crashing just means you have to reboot - these won't actually _break_ the game, ever)
 
