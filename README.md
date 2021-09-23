@@ -67,6 +67,9 @@ Have you ever felt like you were just getting into the rhythm of holding E down,
 Gives the brood nexus some teeth.
 WARNING: ~~brood~~ tooth nexus **will** share teeth
 
+### Naedocyte Boomer
+Replaces those dumb electro-jellyfish jerkbags with bulks. Not in the same quantity (that mod can exist if desired though, of course), and with a delay between bursts
+
 
 ## Sandbox Mods
 Maybe these will break your game with credits and XP, maybe they'll break your game by crashing it. Only one way to find out! (Don't worry, crashing just means you have to reboot - these won't actually _break_ the game, ever)
