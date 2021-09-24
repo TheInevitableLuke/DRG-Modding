@@ -70,6 +70,15 @@ WARNING: ~~brood~~ tooth nexus **will** share teeth
 ### Naedocyte Boomer
 Replaces those dumb electro-jellyfish jerkbags with bulks. Not in the same quantity (that mod can exist if desired though, of course), and with a delay between bursts
 
+### Supercritical Breeder Reactor
+Naedocyte breeders now spawn brood nexii.
+
+Brood nexii, swarmer eggs, and swarmer tunnels now spawn naedocyte breeders.
+
+This gets out of hand pretty quick. If the breeder reaction passes criticality, there's really no coming back.
+
+**IMPORTANT:** do not set the spawn cap over **500**. The game **will** crash if more than 500 breeders are spawned (although you'll lose all your frames long before that). I recommend between 100 and 300; the nexii are not constrained by this, though, so if things do get out of hand, get out of there fast.
+
 
 ## Sandbox Mods
 Maybe these will break your game with credits and XP, maybe they'll break your game by crashing it. Only one way to find out! (Don't worry, crashing just means you have to reboot - these won't actually _break_ the game, ever)
