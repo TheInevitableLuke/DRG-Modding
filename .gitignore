@@ -1,2 +1,6 @@
 *.zip
 Zipped Mods/
+Automation/
+Automation/venv/
+Automation/.idea/
+!Automation/ModUnfucker9000.py
